@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "node-fetch": "^2.6.0",
+    "node-html-parser": "^1.2.20",
+    "request": "^2.88.2",
+    "utf8": "^3.0.0"
+  }
+}
